@@ -15,6 +15,12 @@ body {
   height: 100vh;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .calculadora {
   display: grid;
   grid-template-columns: repeat(4, 75px);

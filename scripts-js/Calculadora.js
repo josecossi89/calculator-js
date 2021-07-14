@@ -3,7 +3,7 @@ class Calculadora {
     return num1 + num2;
   }
 
-  restat(num1, num2) {
+  restar(num1, num2) {
     return num1 - num2;
   }
 
